@@ -5,7 +5,7 @@ body {
 }
 /* LOGOS */
 .logo {
-    background-image: url("../img/logo.png");
+    background-image: url("/logo.png");
     background-repeat: no-repeat;
 }
 /* END LOGOS */
@@ -128,7 +128,7 @@ footer .col-4 {
 /* PAGE 2 */
 
 .postimg1 {
-    background-image: url("../img/post2img1.png");
+    background-image: url("/post2img1.png");
 }
 .imgs {
 
